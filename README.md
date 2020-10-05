@@ -4,4 +4,4 @@
 2. Once eat then moved to the eaten burger section.
 3. Application is developed using MVC pattern.
 
-![image](https://user-images.githubusercontent.com/66193098/95033742-16988780-0674-11eb-98c2-bf736e210a0d.png)
+![image](https://user-images.githubusercontent.com/66193098/95034206-c5899300-0675-11eb-96f5-d1c5caccb74f.png)
