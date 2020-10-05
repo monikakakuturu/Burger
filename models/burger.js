@@ -7,14 +7,14 @@ const burger = {
     });
   },
 
-  insertOne: (col, vals, callback) => {
+  insertOne: (cols, vals, callback) => {
     orm.insertOne("burgers", cols, vals, (result) => {
       callback(result);
     });
   },
 
-  updateOne: (col, vals, condition, callback) => {
-    orm.updateOne("burgers", cols, vals, condition, (result) => {
+  updateOne: (cols, condition, callback) => {
+    orm.updateOne("burgers", cols, condition, (result) => {
       callback(result);
     });
   },
